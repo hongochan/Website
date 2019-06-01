@@ -1,0 +1,28 @@
+
+
+@import url('https://fonts.google.com/specimen/Gamja+Flower');
+
+html, body {
+	width: 100%;
+	height: 100%;
+	font-family: 'Gamja Flower';
+	font-size: 28px;
+	color: #222;
+}
+.navbar li a {
+
+	color:green!important;
+	font-size: 25px;
+}
+.navbar li a:hover {
+    color:white !important;
+}
+.carousel-inner img{
+	width: 100%;
+}
+.jumbotron{
+	font-style: oblique;
+}
+.container{
+	font-style: oblique;
+}
